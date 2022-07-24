@@ -1,6 +1,6 @@
 # Dstv_packages
-A basic understanding of how paid Television Subscription works
+This contracts demostrated a basic understanding of how paid Television Subscription works.
 Dstv is a paid Television used in Sub-saharan Africa
-This contract is just a basic contracts that demostrates how subcribers can only subscribe to a particular package with the required 
+This is just  a basic contracts that demostrates how subcribers can only subscribe to a particular package with the required 
 amount.
 
